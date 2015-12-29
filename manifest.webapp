@@ -1,5 +1,5 @@
 {
-  "name": "final_project",
+  "name": "Avoid the Ball",
   "description": "a 60s challenge",
   "launch_path": "/index.html",
   "icons": {
@@ -11,5 +11,6 @@
   "developer": {
     "name": "Su Sheng-Ya",
     "url": "http://example.com"
-  }
+  },
+  "default_locale": "en"
 }
